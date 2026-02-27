@@ -71,6 +71,6 @@ cmake --build .
 
 ## License
 
-This project is licensed under the **GNU General Public License v3.0** (GPL-3.0).
+This project is licensed under the **MIT License** .
 
-You are free to use, modify, and distribute this software, provided that any derivative works are also open-source and distributed under the same terms. See the [LICENSE](LICENSE) file for more details.
+See the [LICENSE](LICENSE) file for more details.
